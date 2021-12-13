@@ -3,7 +3,8 @@
 built deep learning models for classification
 
 1) - blood_cell_classification
-     classifying and detecting the image data into its type of blood cell using deep learning model ( transfer learning )
+     classifying and detecting the image data into its type of blood cell using deep learning model ( transfer learning ).
+     The dataset was taken from Kaggle.
      MODEL :- 
      * vgg16
     
